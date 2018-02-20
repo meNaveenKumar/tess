@@ -1,1 +1,1 @@
-# tess
+# install python and run
